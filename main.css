@@ -9,7 +9,7 @@ header {
 #main {background: #333333;
   width: 80%;
   margin: 0 auto;
-  padding-bottom: 4%;
+  padding-bottom: 4%;padding-top:12px;
   font-weight:300;
   font-family: 'Open Sans', Verdana;
   text-align: center;
