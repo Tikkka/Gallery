@@ -18,8 +18,8 @@
   margin: 0;
   padding: 0;
   line-height: 0;
-  -moz-animation:slide-animation 15s infinite;
-  -webkit-animation:slide-animation 15s infinite;
+  -moz-animation:slide-animation 35s infinite;
+  -webkit-animation:slide-animation 35s infinite;
 }
 
 .slider ul:hover {
